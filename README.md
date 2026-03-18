@@ -44,6 +44,7 @@ python run.py --cli
 
 ## 📁 Project Structure
 
+Install Tkinter first then
 ```
 ThreatKill/
 ├── run.py                   # Main entry point (GUI + CLI)
