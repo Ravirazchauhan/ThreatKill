@@ -1,0 +1,9 @@
+# No external dependencies required!
+# ThreatKill uses only Python standard library modules:
+# - tkinter  (GUI)
+# - asyncio, threading, subprocess, hashlib, os, platform, re, json
+
+# On Linux, ensure tkinter is available:
+# Ubuntu/Debian: sudo apt install python3-tk
+# Fedora:        sudo dnf install python3-tkinter
+# Arch:          sudo pacman -S tk
