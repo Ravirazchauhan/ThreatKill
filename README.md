@@ -2,7 +2,7 @@
 
 > A cross-platform GUI malware & rootkit removal tool built in Python.
 
-![Python](https://img.shields.io/badge/python-3.9+-blue?style=flat-square)
+![Python](https://img.shields.io/badge/python-3.1+-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-green?style=flat-square)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
